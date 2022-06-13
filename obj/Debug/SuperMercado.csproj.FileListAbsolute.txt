@@ -1,0 +1,22 @@
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\bin\Debug\SuperMercado.exe.config
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\bin\Debug\SuperMercado.exe
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\bin\Debug\SuperMercado.pdb
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\obj\Debug\SuperMercado.csproj.AssemblyReference.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\obj\Debug\SuperMercado.csproj.SuggestedBindingRedirects.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\obj\Debug\SuperMercado.Form1.resources
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\obj\Debug\SuperMercado.Properties.Resources.resources
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\obj\Debug\SuperMercado.csproj.GenerateResource.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\obj\Debug\SuperMercado.csproj.CoreCompileInputs.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\obj\Debug\SuperMercado.exe
+E:\Curso Técnico\2 ano\Desenv. Sist\SuperMercado\obj\Debug\SuperMercado.pdb
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\bin\Debug\SuperMercado.exe.config
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\bin\Debug\SuperMercado.exe
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\bin\Debug\SuperMercado.pdb
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\obj\Debug\SuperMercado.csproj.AssemblyReference.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\obj\Debug\SuperMercado.csproj.SuggestedBindingRedirects.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\obj\Debug\SuperMercado.Form1.resources
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\obj\Debug\SuperMercado.Properties.Resources.resources
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\obj\Debug\SuperMercado.csproj.GenerateResource.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\obj\Debug\SuperMercado.csproj.CoreCompileInputs.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\obj\Debug\SuperMercado.exe
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\FormSuperMercado-master\obj\Debug\SuperMercado.pdb
